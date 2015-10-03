@@ -1,0 +1,96 @@
+@font-face {
+  font-family: 'fifteen';
+  src: url('FifteenNarrow.ttf');
+}
+
+body {
+	font-family: 'fifteen';
+	font-size: 1.5em;
+}
+
+.container{
+	margin: 10px auto 50px auto;
+	width: 60%;
+}
+
+.thing{
+	margin:10px 2%;
+	background-color: pink;
+	width: 35%;
+	display: inline-block;
+	padding: 10px 3%;
+}
+
+.thing a {
+	text-decoration: none;
+}
+
+.thing a:hover{
+	text-decoration: underline;
+}
+
+.header {
+	margin: 20px;
+	display: block;
+	text-align: center;
+	background-color: yellow;
+	padding: 15px 0;
+	font-size: 2.5em;
+}
+
+.footer {
+	border-top: dashed 2px black;
+	width: 40%;
+	margin: auto;
+	text-align: center;
+}
+
+#zelda-tracker{
+	background-color: green;
+}
+#zelda-tracker a{
+	color:white;
+}
+
+#github{
+	background-color: grey;
+	color:white;
+}
+
+#github a{
+	color: black;
+}
+
+#professional-site {
+	background-color: #eb6864;
+}
+
+#professional-site a{
+	color: #2FA;
+}
+
+#twitter {
+	background-color: #4099FF; /* Twitter Blue */
+}
+
+#twitter a{
+	color: white;
+}
+
+#twitch {
+	background-color: #6441A5; /* Twitch Purple */
+	color: #F1F1F1; /* Twitch Light Grey */
+}
+
+#twitch a{
+	color: white;
+}
+
+#ello {
+	background-color: black;
+	color: white;
+}
+
+#ello a{
+	color: white;
+}
