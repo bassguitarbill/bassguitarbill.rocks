@@ -11,6 +11,7 @@ body {
 .container{
 	margin: 10px auto 50px auto;
 	width: 60%;
+	text-align: center;
 }
 
 .thing{
@@ -19,6 +20,7 @@ body {
 	width: 35%;
 	display: inline-block;
 	padding: 10px 3%;
+	vertical-align: top;
 }
 
 .header {
