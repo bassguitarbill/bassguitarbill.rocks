@@ -21,14 +21,6 @@ body {
 	padding: 10px 3%;
 }
 
-.thing a {
-	text-decoration: none;
-}
-
-.thing a:hover{
-	text-decoration: underline;
-}
-
 .header {
 	margin: 20px;
 	display: block;
@@ -43,54 +35,4 @@ body {
 	width: 40%;
 	margin: auto;
 	text-align: center;
-}
-
-#zelda-tracker{
-	background-color: green;
-}
-#zelda-tracker a{
-	color:white;
-}
-
-#github{
-	background-color: grey;
-	color:white;
-}
-
-#github a{
-	color: black;
-}
-
-#professional-site {
-	background-color: #eb6864;
-}
-
-#professional-site a{
-	color: #2FA;
-}
-
-#twitter {
-	background-color: #4099FF; /* Twitter Blue */
-}
-
-#twitter a{
-	color: white;
-}
-
-#twitch {
-	background-color: #6441A5; /* Twitch Purple */
-	color: #F1F1F1; /* Twitch Light Grey */
-}
-
-#twitch a{
-	color: white;
-}
-
-#ello {
-	background-color: black;
-	color: white;
-}
-
-#ello a{
-	color: white;
 }

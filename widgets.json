@@ -1,0 +1,68 @@
+[			
+	{
+		"url":"http://bassguitarbill.rocks/zelda-tracker/",
+		"name":"zelda-tracker",
+		"title":"zelda tracker",
+		"description":"Web app for showing progress in Zelda 1 races",
+		"color":{
+			"title":"white",
+			"text":"black",
+			"background":"green"
+		}
+	},
+	{
+		"url":"http://github.com/bassguitarbill",
+		"name":"github",
+		"title":"github",
+		"description":"My GitHub portfolio, containing projects in JavaScript, Clojure, and various others",
+		"color":{
+			"title":"black",
+			"text":"white",
+			"background":"grey"
+		}
+	},
+	{
+		"url":"http://bill-rossi.com",
+		"name":"professional-site",
+		"title":"bill-rossi.com",
+		"description":"My professional website (it's a lot less exciting than this one)",
+		"color":{
+			"title":"#2fa",
+			"text":"white",
+			"background":"#eb6864"
+		}
+	},
+	{
+		"url":"http://twitter.com/bassguitarbill",
+		"name":"twitter",
+		"title":"twitter",
+		"description":"I tweet about programming, speedruns, Philadelphia, beer, &amp;cetera",
+		"color":{
+			"title":"white",
+			"text":"black",
+			"background":"#4099FF"
+		}
+	},
+	{
+		"url":"http://twitch.tv/bassguitarbill",
+		"name":"twitch",
+		"title":"twitch",
+		"description":"I occasionally stream speedruns or playthroughs of video games",
+		"color":{
+			"title":"#F1F1F1",
+			"text":"white",
+			"background":"#6441A5"
+		}
+	},
+	{
+		"url":"https://ello.co/bassguitarbill",
+		"name":"ello",
+		"title":"ello",
+		"description":"Full disclosure: I check ello rarely, and I post there even more rarely",
+		"color":{
+			"title":"white",
+			"text":"white",
+			"background":"black"
+		}
+	}
+]
