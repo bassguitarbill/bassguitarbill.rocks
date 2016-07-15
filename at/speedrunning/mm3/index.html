@@ -1,8 +1,23 @@
 <html>
 	<head>
 		<title>Mega Man 3</title>
+		<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	</head>
 	<body>
-		<p>Magnet Man, he has a Magnet Plan, he'll smack you, with the back of his Magnet Hand</p>
+		<div id="stratGoesHere"></div>
+		<script>
+			$(function() {
+				$.get("mm3-route.json", function(route) {
+					//$("#stratGoesHere").text(JSON.stringify(route))
+					route.route.forEach(level => {
+						$("#stratGoesHere").append("<h3>" + level.title + "</h3><ul>");
+						level.steps.forEach(step => $("#stratGoesHere").append("<li>" + step + "</li>"));
+						$("#stratGoesHere").append("</ul>")
+					});
+				});
+			});
+		</script>
 	</body>
 </html>
