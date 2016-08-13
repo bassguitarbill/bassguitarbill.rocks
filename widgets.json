@@ -11,6 +11,17 @@
 		}
 	},
 	{
+		"url":"http://bassguitarbill.rocks/liquid-timer/",
+		"name":"liquid-timer",
+		"title":"liquid timer",
+		"description":"Simple web / nw.js app to display a countdown timer that drains",
+		"color":{
+			"title":"white",
+			"text":"white",
+			"background":"black"
+		}
+	}
+	{
 		"url":"http://github.com/bassguitarbill",
 		"name":"github",
 		"title":"github",
