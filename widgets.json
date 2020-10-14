@@ -1,9 +1,9 @@
 [			
 	{
-		"url":"http://bassguitarbill.rocks/zelda-tracker/",
-		"name":"zelda-tracker",
-		"title":"zelda tracker",
-		"description":"Web app for showing progress in Zelda 1 races",
+		"url":"https://bassguitarbill.itch.io",
+		"name":"bgb-itch",
+		"title":"itch",
+		"description":"itch.io portfolio of games I've developed",
 		"color":{
 			"title":"white",
 			"text":"black",
@@ -11,12 +11,12 @@
 		}
 	},
 	{
-		"url":"http://bassguitarbill.rocks/liquid-timer/",
-		"name":"liquid-timer",
-		"title":"liquid timer",
-		"description":"Simple web \/ nw.js app to display a countdown timer that drains",
+		"url":"https://whatguns.itch.io",
+		"name":"what-guns",
+		"title":"What Guns are What Do?",
+		"description":"Portfolio of games I've developed with my friends at What Guns",
 		"color":{
-			"title":"white",
+			"title":"#c5c5b9",
 			"text":"white",
 			"background":"black"
 		}
@@ -25,7 +25,7 @@
 		"url":"http://github.com/bassguitarbill",
 		"name":"github",
 		"title":"github",
-		"description":"My GitHub portfolio, containing projects in JavaScript, Clojure, and various others",
+		"description":"Lots of source code, few completed projects",
 		"color":{
 			"title":"black",
 			"text":"white",
@@ -38,42 +38,31 @@
 		"title":"bill-rossi.com",
 		"description":"My professional website (it's a lot less exciting than this one)",
 		"color":{
-			"title":"#2fa",
-			"text":"white",
+			"title":"white",
+			"text":"black",
 			"background":"#eb6864"
 		}
 	},
 	{
-		"url":"http://twitter.com/bassguitarbill",
-		"name":"twitter",
-		"title":"twitter",
-		"description":"I tweet about programming, speedruns, Philadelphia, beer, &amp;cetera",
+		"url":"https://soundcloud.com/bassguitarbill",
+		"name":"soundcloud",
+		"title":"soundcloud",
+		"description":"Collection of music I've composed or performed",
 		"color":{
 			"title":"white",
-			"text":"black",
-			"background":"#4099FF"
+			"text":"white",
+			"background":"#FE5000"
 		}
 	},
 	{
-		"url":"http://twitch.tv/bassguitarbill",
-		"name":"twitch",
-		"title":"twitch",
-		"description":"I occasionally stream speedruns or playthroughs of video games",
+		"url":"https://www.instagram.com/bassguitarbill/",
+		"name":"instagram",
+		"title":"instagram",
+		"description":"Pixel art and photographs",
 		"color":{
 			"title":"#F1F1F1",
 			"text":"white",
-			"background":"#6441A5"
-		}
-	},
-	{
-		"url":"https://ello.co/bassguitarbill",
-		"name":"ello",
-		"title":"ello",
-		"description":"Full disclosure: I check ello rarely, and I post there even more rarely",
-		"color":{
-			"title":"white",
-			"text":"white",
-			"background":"black"
+			"background":"#405de6"
 		}
 	}
 ]
