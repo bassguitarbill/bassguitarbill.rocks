@@ -44,6 +44,17 @@
 		}
 	},
 	{
+		"url":"https://bassguitarbill.rocks/musica",
+		"name":"musica",
+		"title":"musica (wip)",
+		"description":"A tool to generate random chords, to provide songwriting inspiration",
+		"color":{
+			"title":"#333",
+			"text":"black",
+			"background":"#FFAB4C"
+		}
+	},
+	{
 		"url":"https://soundcloud.com/bassguitarbill",
 		"name":"soundcloud",
 		"title":"soundcloud",
