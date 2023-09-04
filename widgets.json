@@ -33,14 +33,14 @@
 		}
 	},
 	{
-		"url":"http://bill-rossi.com",
-		"name":"professional-site",
-		"title":"bill-rossi.com",
-		"description":"My professional website (it's a lot less exciting than this one)",
+		"url":"bassguitarbill.rocks/ika",
+		"name":"ika",
+		"title":"Ika",
+		"description":"Japanese language conjugation drilling app",
 		"color":{
-			"title":"white",
-			"text":"black",
-			"background":"#eb6864"
+			"title":"red",
+			"text":"green",
+			"background":"#ccd"
 		}
 	},
 	{
