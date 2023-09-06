@@ -22,7 +22,7 @@
 		}
 	},
 	{
-		"url":"http://github.com/bassguitarbill",
+		"url":"https://github.com/bassguitarbill",
 		"name":"github",
 		"title":"github",
 		"description":"Lots of source code, few completed projects",
@@ -33,7 +33,7 @@
 		}
 	},
 	{
-		"url":"bassguitarbill.rocks/ika",
+	        "url":"https://bassguitarbill.rocks/ika",
 		"name":"ika",
 		"title":"Ika",
 		"description":"Japanese language conjugation drilling app",
